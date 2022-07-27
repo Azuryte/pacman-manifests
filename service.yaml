@@ -4,7 +4,6 @@ metadata:
   labels:
     app: pacman
   name: pacman
-  namespace: default
 spec:
   internalTrafficPolicy: Cluster
   ipFamilies:
